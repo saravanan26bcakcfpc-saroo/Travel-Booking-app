@@ -1,10 +1,10 @@
 # Travel-Booking-app
 # TravelGo – Travel Booking App UI/UX Design
 
- *Project Overview*
+ # Project Overview
 TravelGo is a modern and user-friendly travel booking app UI/UX design created using Figma. The application helps users explore popular tourist destinations, view destination details, select travel packages, and plan their trips easily.The design focuses on simplicity, attractive visuals, and a smooth user experience. It provides an easy way for users to discover new places and go through the travel booking process.
 
-*Objectives*
+# Objectives
 - To design a simple and user-friendly travel booking application.
 - To help users discover popular tourist destinations.
 - To provide destination information, ratings, and package prices.
@@ -12,7 +12,7 @@ TravelGo is a modern and user-friendly travel booking app UI/UX design created u
 - To design a smooth booking and payment user flow.
 - To improve the overall user experience through modern UI/UX principles.
 
- *Design Highlights*
+ # Design Highlights
 - **Modern UI:** Clean layouts with a visually appealing design.
 - **Color Palette:** Blue, teal, orange, and light backgrounds.
 - **Typography:** Clear and readable fonts for better accessibility.
@@ -21,7 +21,7 @@ TravelGo is a modern and user-friendly travel booking app UI/UX design created u
 - **Prototype Flow:** Connected screens to demonstrate the travel booking journey.
 - **Responsive Approach:** Designed with a mobile-first layout.
 
-*Features*
+# Features
 - **Home Screen:** Displays popular and trending tourist destinations.
 - **Explore Screen:** Allows users to browse destinations and view categories.
 - **Destination Details:** Shows destination images, descriptions, ratings, and package information.
@@ -31,10 +31,10 @@ TravelGo is a modern and user-friendly travel booking app UI/UX design created u
 - **Easy Navigation:** Bottom navigation for Home, Explore, Bookings, and Profile.
 - **Interactive Prototype:** Allows users to navigate between screens in Figma.
 
-*Tools Used*
+# Tools Used
 Figma
 
-*Screens*
+# Screens
 1.Home
 2.Explore
 3.Destination details
@@ -42,7 +42,7 @@ Figma
 5.Payment Options
 6.Booking confirmation
 
-*Screenshots*
+# Screenshots
 1.Home
 
 2.Explore
@@ -56,7 +56,7 @@ Figma
 6.Booking confirmation
 
 
-*Figma Prototype link*
+# Figma Prototype link*
 https://www.figma.com/design/ZNHt324g1e9luBTOK5Jmiu/Untitled?node-id=6-78&t=09ZtYM4NSz83Od5u-1
 
 # Project Structure
