@@ -68,5 +68,5 @@ BCA First year
 
 # License
 This project is created for educational purposes only.
-**Department:**BCA(IST Year )
+**Department:**BCA(IST Year)
 
